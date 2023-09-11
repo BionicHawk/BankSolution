@@ -1,0 +1,18 @@
+[
+  {
+    "Department": "IT",
+    "ID": 1,
+    "Name": "Angel",
+    "Email": "angel.manzo.rosas@gmail.com",
+    "Balance": 36387082.2,
+    "RegisterDate": "2023-09-11T12:23:49.5576323-06:00"
+  },
+  {
+    "TaxRegime": "F",
+    "ID": 2,
+    "Name": "Juan",
+    "Email": "Juan@hotmail.com",
+    "Balance": 256423.0,
+    "RegisterDate": "2023-09-11T12:24:33.0014487-06:00"
+  }
+]

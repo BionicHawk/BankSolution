@@ -1,0 +1,50 @@
+[
+  {
+    "TaxRegime": "F",
+    "ID": 1,
+    "Name": "Alondra",
+    "Email": "Alondra@gmail.com",
+    "Balance": 124000.0,
+    "RegisterDate": "2023-09-10T17:44:55.5278285-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 2,
+    "Name": "Oscar",
+    "Email": "Oscar@gmail.com",
+    "Balance": 53483904.0,
+    "RegisterDate": "2023-09-10T17:44:55.5629793-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 4,
+    "Name": "Angel",
+    "Email": "Angel@gmail.com",
+    "Balance": 8646490156344.6,
+    "RegisterDate": "2023-09-10T17:44:55.5631821-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 5,
+    "Name": "Dante",
+    "Email": "Dante@gmail.com",
+    "Balance": 372070156344.6,
+    "RegisterDate": "2023-09-10T17:44:55.5637897-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 6,
+    "Name": "Ruben",
+    "Email": "Ruben@gmail.com",
+    "Balance": 479170156344.6,
+    "RegisterDate": "2023-09-10T17:44:55.563791-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 7,
+    "Name": "Angel de Jesus",
+    "Email": "angel.manzo.rosas@gmail.com",
+    "Balance": 223650.525,
+    "RegisterDate": "2023-09-11T00:40:58.7916966-06:00"
+  }
+]
